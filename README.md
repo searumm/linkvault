@@ -1,6 +1,6 @@
 # LinkVault API — Secure Asset Delivery & Pay-to-Unlock Escrow
 
-[![LinkVault]([https://linkvault.biz/bkcGO.jpg]](https://linkvault.biz)
+[![LinkVault](https://linkvault.biz/bkcGO.jpg)](https://linkvault.biz)
 
 > **"They don't get the file until they pay."**
 
