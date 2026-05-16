@@ -142,6 +142,7 @@ We are currently developing official SDKs to make integration even faster:
 ---
 
 ## 💬 Support & Community
+- **LinkVault**: [linkvault.biz](https://linkvault.biz)
 - **Full API Docs**: [linkvault.biz/api-docs](https://linkvault.biz/api-docs)
 - **Twitter**: [@linkvault_biz](https://twitter.com/linkvault_biz)
 - **Email**: [hello@linkvault.biz](mailto:hello@linkvault.biz)
